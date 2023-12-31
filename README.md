@@ -26,8 +26,8 @@ End of the program
 ## PROGRAM:
 ```python
 #To write a program for coping the contents from one to another file.
-#Developed by : VEERARAGAVAN V
-#RegisterNumber:212223230237
+#Developed by : Mugil
+#RegisterNumber:212223230127
 with open("file1.txt","r") as f:
     x=f.read()
 with open("file2.txt","w") as f1:
